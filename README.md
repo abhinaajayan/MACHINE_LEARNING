@@ -1,3 +1,5 @@
+# ML_Projects
+
 # Introduction to Machine Learning
 
 ## What is Machine Learning?
@@ -189,4 +191,4 @@ Data preprocessing is a crucial step to improve model accuracy.
 Machine Learning is a powerful technology that enables systems to learn from data and make intelligent decisions. It plays a vital role in modern applications across various domains such as healthcare, finance, and automation.
 
 ---
-# ML_Projects
+
