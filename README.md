@@ -1,4 +1,3 @@
-# ML_Projects
 
 # Introduction to Machine Learning
 
